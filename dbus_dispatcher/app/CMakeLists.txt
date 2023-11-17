@@ -1,3 +1,6 @@
+cmake_minimum_required(VERSION 3.12)
+project(dbus_dispatcher_app)
+
 # Find sdbus-c++
 find_package(sdbus-c++ REQUIRED)
 
