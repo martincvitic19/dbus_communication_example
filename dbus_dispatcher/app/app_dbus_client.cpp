@@ -3,9 +3,6 @@
 *
 * @brief This app defines usage dbus_client's methods to implement sending
          messages to a server.
-*
-* COPYRIGHT NOTICE: (c) 2023 AVL-AST d.o.o.
-* All rights reserved.
 */
 
 //--------------------------------- INCLUDES ----------------------------------

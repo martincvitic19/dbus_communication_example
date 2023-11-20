@@ -3,9 +3,6 @@
 *
 * @brief This module defines methods for sending messages
          over dbus.
-*
-* COPYRIGHT NOTICE: (c) 2023 AVL-AST d.o.o.
-* All rights reserved.
 */
 
 //--------------------------------- INCLUDES ----------------------------------
