@@ -3,9 +3,6 @@
 *
 * @brief This app defines usage dbus_server's methods to implement receiving
          messages from a client.
-*
-* COPYRIGHT NOTICE: (c) 2023 AVL-AST d.o.o.
-* All rights reserved.
 */
 
 //--------------------------------- INCLUDES ----------------------------------
