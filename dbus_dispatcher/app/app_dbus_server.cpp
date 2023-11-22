@@ -10,7 +10,6 @@
 #include <stdio.h>
 #include <iostream>
 #include <sdbus-c++/sdbus-c++.h>
-#include "message-dispatcher-server-glue.h"
 
 //---------------------------------- MACROS -----------------------------------
 
