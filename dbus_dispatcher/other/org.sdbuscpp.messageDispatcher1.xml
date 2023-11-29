@@ -1,0 +1,9 @@
+<!DOCTYPE busconfig PUBLIC
+ "-//freedesktop//DTD D-BUS Bus Configuration 1.0//EN"
+ "http://www.freedesktop.org/standards/dbus/1.0/busconfig.dtd">
+ 
+ <node name="/org/sdbuscpp/messageDispatcher">
+    <interface name="org.sdbuscpp.messageDispatcherInterface1">
+    	<method name="notifyMessageArrival"></method>
+    </interface>
+</node>
