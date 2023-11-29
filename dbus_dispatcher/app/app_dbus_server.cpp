@@ -70,8 +70,7 @@ void notifyMessageArrival(sdbus::MethodCall call)
     std::cout << "The message was successfully received. " << std::endl;
 
     // Reply to the caller by creating a reply message for a given call.
-    auto reply = call.createReply();
+    //auto reply = call.createReply();
     // Since this is a void-returning method, just send an empty reply
-    // back to the caller.
-    reply.send();
+    //reply.send();
 }
