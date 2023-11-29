@@ -34,7 +34,7 @@ int main(void)
     auto testMessageProxy = sdbus::createProxy(destinationName, objectPath);
 
     // Subscribing to the 'messageDispatcherSignal' signals
-    const char* interfaceName = "org.sdbuscpp.MessageDispatcherInterface1";
+    const char* interfaceName = "org.sdbuscpp.messageDispatcherInterface1";
     // testMessageProxy->registerSignalHandler(interfaceName, "messageDispatcherSignal", &onMessageSent);
     testMessageProxy->finishRegistration();
 
